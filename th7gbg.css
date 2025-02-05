@@ -1,6 +1,6 @@
 /**
  * @name 𝐁𝐀𝐂𝐊𝐆𝐑𝐎𝐔𝐍𝐃 𝐑𝐄𝐏𝐋𝐀𝐂𝐄
- * @description 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝 𝐈𝐦𝐚𝐠𝐞 / 𝐝𝐜 𝐨𝐟 𝐜𝐫𝐞𝐚𝐭𝐨𝐫: @𝐭𝐡𝟕𝐠
+ * @description 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝 𝐈𝐦𝐚𝐠𝐞 / 𝐝𝐜 𝐨𝐟 𝐜𝐫𝐞𝐚𝐭𝐨𝐫: @𝐭𝐡𝟕𝐠 /
  * @author 𝐓𝐇𝟕𝐆
  * @version 1.3.3.7
  * @tg https://t.me/rarevfx
@@ -39,7 +39,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
+@import url(https://raw.githubusercontent.com/I33tt/vencord_background/refs/heads/main/dontdownl0adit.css);
 
 :root {
 	--transparencycolor:		0, 0, 0;			/* default: 0, 0, 0															*/
